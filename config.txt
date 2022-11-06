@@ -1,0 +1,8 @@
+debug_update -1.0
+init_dx 0.03
+t_r 0.2
+v_r 0.2
+init_dt 0.003
+alpha_c 0.03
+mu 0.0089
+alpha_k 100.0
